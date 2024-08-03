@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "モスコミュール",
+        "image": "/images/cocktail/moscomule.jpg",
+        "ingradients": [
+            {
+                "ingradientId": 1,
+                "amount": "30ml"
+            },
+            {
+                "ingradientId": 2,
+                "amount": "10ml"
+            },
+            {
+                "ingradientId": 3,
+                "amount": "150ml"
+            }
+        ],
+        "method": "ビルド"
+    }
+]
