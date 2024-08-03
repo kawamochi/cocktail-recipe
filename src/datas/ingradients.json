@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "ウォッカ",
+        "image": "/images/ingradients/vdoka.jpg"
+    },
+    {
+        "id": 2,
+        "name": "ライム",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 3,
+        "name": "ジンジャーエール",
+        "image": "/images/ingradients/gingerale.jpg"
+    }
+]
