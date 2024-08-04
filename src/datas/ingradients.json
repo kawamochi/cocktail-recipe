@@ -6,12 +6,132 @@
     },
     {
         "id": 2,
-        "name": "ライム",
+        "name": "ラム",
         "image": "/images/ingradients/rime.jpg"
     },
     {
         "id": 3,
+        "name": "ジン",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 4,
+        "name": "テキーラ",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 5,
+        "name": "ウイスキー",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 6,
+        "name": "lambanog",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 11,
+        "name": "カシス",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 12,
+        "name": "ピーチ",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 13,
+        "name": "マリブ",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 14,
+        "name": "パッソア",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 15,
+        "name": "ブルーキュラソー",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 101,
+        "name": "レモン",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 102,
+        "name": "ライム",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 111,
+        "name": "ローズシロップ",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 112,
+        "name": "エルダーフラワーシロップ",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 113,
+        "name": "ガムシロップ",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 114,
+        "name": "グレナデン",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 120,
+        "name": "コーラ",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 121,
         "name": "ジンジャーエール",
-        "image": "/images/ingradients/gingerale.jpg"
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 122,
+        "name": "オレンジジュース",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 123,
+        "name": "グレープフルーツジュース",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 124,
+        "name": "パインジュース",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 125,
+        "name": "ソーダ",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 126,
+        "name": "トニックウォーター",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 127,
+        "name": "水",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 128,
+        "name": "紅茶",
+        "image": "/images/ingradients/rime.jpg"
+    },
+    {
+        "id": 129,
+        "name": "ウーロン茶",
+        "image": "/images/ingradients/rime.jpg"
     }
 ]
