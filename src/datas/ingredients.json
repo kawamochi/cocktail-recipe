@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "name": "ウォッカ",
+        "image": "/images/ingredients/vodka.png"
+    },
+    {
+        "id": "2",
+        "name": "ラム",
+        "image": "/images/ingredients/rum.png"
+    },
+    {
+        "id": "3",
+        "name": "ジン",
+        "image": "/images/ingredients/gin.png"
+    },
+    {
+        "id": "4",
+        "name": "テキーラ",
+        "image": "/images/ingredients/tequila.png"
+    },
+    {
+        "id": "5",
+        "name": "ウイスキー",
+        "image": "/images/ingredients/whisky.png"
+    },
+    {
+        "id": "6",
+        "name": "lambanog",
+        "image": "/images/ingredients/lambanog.png"
+    },
+    {
+        "id": "11",
+        "name": "カシスリキュール",
+        "image": "/images/ingredients/cassis.png"
+    },
+    {
+        "id": "12",
+        "name": "ピーチリキュール",
+        "image": "/images/ingredients/peach.png"
+    },
+    {
+        "id": "13",
+        "name": "マリブ",
+        "image": "/images/ingredients/malibu.png"
+    },
+    {
+        "id": "14",
+        "name": "パッソア",
+        "image": "/images/ingredients/passoa.png"
+    },
+    {
+        "id": "15",
+        "name": "ブルーキュラソー",
+        "image": "/images/ingredients/blue_curacao.png"
+    },
+    {
+        "id": "101",
+        "name": "レモン",
+        "image": "/images/ingredients/lemon.png"
+    },
+    {
+        "id": "102",
+        "name": "ライム",
+        "image": "/images/ingredients/lime.png"
+    },
+    {
+        "id": "111",
+        "name": "ローズシロップ",
+        "image": "/images/ingredients/rose_syrup.png"
+    },
+    {
+        "id": "112",
+        "name": "エルダーフラワーシロップ",
+        "image": "/images/ingredients/elder_flower_syrup.png"
+    },
+    {
+        "id": "113",
+        "name": "ガムシロップ",
+        "image": "/images/ingredients/gum_syrup.png"
+    },
+    {
+        "id": "114",
+        "name": "グレナデン",
+        "image": "/images/ingredients/grenadine.png"
+    },
+    {
+        "id": "120",
+        "name": "コーラ",
+        "image": "/images/ingredients/cola.png"
+    },
+    {
+        "id": "121",
+        "name": "ジンジャーエール",
+        "image": "/images/ingredients/ginger_ale.png"
+    },
+    {
+        "id": "122",
+        "name": "オレンジジュース",
+        "image": "/images/ingredients/orange.png"
+    },
+    {
+        "id": "123",
+        "name": "グレープフルーツジュース",
+        "image": "/images/ingredients/grapefruit.png"
+    },
+    {
+        "id": "124",
+        "name": "パインジュース",
+        "image": "/images/ingredients/pineapple.png"
+    },
+    {
+        "id": "125",
+        "name": "ソーダ",
+        "image": "/images/ingredients/soda.png"
+    },
+    {
+        "id": "126",
+        "name": "トニックウォーター",
+        "image": "/images/ingredients/tonic.ong"
+    }
+]

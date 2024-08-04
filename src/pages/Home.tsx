@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { 
-  Container, 
-  Typography, 
-  Grid, 
-  Card, 
-  CardMedia, 
-  CardContent, 
+import {
+  Container,
+  Typography,
+  Grid,
+  Card,
+  CardMedia,
+  CardContent,
   CardActionArea,
   FormControl,
   InputLabel,
@@ -14,29 +14,23 @@ import {
 } from '@mui/material';
 import { Recipe, Ingredient } from '../types';
 import { Link } from 'react-router-dom';
+import Recipes from '../datas/recipes.json'
+import Ingredients from '../datas/ingredients.json'
 
-function Home() {
-  const [recipes, setRecipes] = useState<Recipe[]>([]);
-  const [ingredients, setIngredients] = useState<Ingredient[]>([]);
+export const Home = () => {
   const [selectedIngredient, setSelectedIngredient] = useState<string>('');
 
-  useEffect(() => {
-    // JSONファイルからデータを読み込む
-    // 実際の実装ではfetchを使用するか、インポートする
-  }, []);
-
+  const recipes: Recipe[] = JSON.parse(JSON.stringify(Recipes))
+  const ingredients: Ingredient[] = JSON.parse(JSON.stringify(Ingredients))
   const filteredRecipes = selectedIngredient
     ? recipes.filter(recipe =>
-        recipe.ingredients.some(ing => ing.ingredientId === selectedIngredient)
-      )
+      recipe.ingredients.some(ing => ing.ingredientId === selectedIngredient)
+    )
     : recipes;
 
   return (
     <Container maxWidth="lg">
-      <Typography variant="h2" component="h1" gutterBottom>
-        カクテルレシピ
-      </Typography>
-      
+
       <FormControl fullWidth margin="normal">
         <InputLabel id="ingredient-select-label">材料で絞り込み</InputLabel>
         <Select
@@ -76,5 +70,3 @@ function Home() {
     </Container>
   );
 }
-
-export default Home;

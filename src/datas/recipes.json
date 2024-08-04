@@ -1,315 +1,315 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "name": "モスコミュール",
-        "image": "/images/cocktail/moscow_mule.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/moscow_mule.png",
+        "ingredients": [
             {
-                "ingradientId": 1,
+                "ingredientId": "1",
                 "amount": "30ml"
             },
             {
-                "ingradientId": 102,
+                "ingredientId": "102",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 121,
+                "ingredientId": "121",
                 "amount": "150ml"
             }
         ],
-        "alchol": 6,
+        "alchol": "6",
         "method": "ビルド"
     },
     {
-        "id": 2,
+        "id": "2",
         "name": "ブルドッグ",
-        "image": "/images/cocktail/bulldog.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/bulldog.png",
+        "ingredients": [
             {
-                "ingradientId": 1,
+                "ingredientId": "1",
                 "amount": "30ml"
             },
             {
-                "ingradientId": 101,
+                "ingredientId": "101",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 123,
+                "ingredientId": "123",
                 "amount": "150ml"
             }
         ],
-        "alchol": 6,
+        "alchol": "6",
         "method": "ビルド"
     },
     {
-        "id": 3,
+        "id": "3",
         "name": "ガルフストリーム",
-        "image": "/images/cocktail/gulf_stream.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/gulf_stream.png",
+        "ingredients": [
             {
-                "ingradientId": 1,
+                "ingredientId": "1",
                 "amount": "20ml"
             },
             {
-                "ingradientId": 12,
+                "ingredientId": "12",
                 "amount": "20ml"
             },
             {
-                "ingradientId": 15,
+                "ingredientId": "15",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 123,
+                "ingredientId": "123",
                 "amount": "50ml"
             },
             {
-                "ingradientId": 124,
+                "ingredientId": "124",
                 "amount": "10ml"
             }
         ],
-        "alchol": 13,
+        "alchol": "13",
         "method": "シェイク"
     },
     {
-        "id": 5,
+        "id": "5",
         "name": "ハイボール",
-        "image": "/images/cocktail/highball.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/highball.png",
+        "ingredients": [
             {
-                "ingradientId": 5,
+                "ingredientId": "5",
                 "amount": "30ml"
             },
             {
-                "ingradientId": 101,
+                "ingredientId": "101",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 125,
+                "ingredientId": "125",
                 "amount": "150ml"
             }
         ],
-        "alchol": 6,
+        "alchol": "6",
         "method": "ビルド"
     },
     {
-        "id": 6,
+        "id": "6",
         "name": "lambanogコーク",
-        "image": "/images/cocktail/cuba_libre.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/cuba_libre.png",
+        "ingredients": [
             {
-                "ingradientId": 6,
+                "ingredientId": "6",
                 "amount": "30ml"
             },
             {
-                "ingradientId": 102,
+                "ingredientId": "102",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 120,
+                "ingredientId": "120",
                 "amount": "150ml"
             }
         ],
-        "alchol": 6,
+        "alchol": "6",
         "method": "ビルド"
     },
     {
-        "id": 7,
+        "id": "7",
         "name": "カシスソーダ",
-        "image": "/images/cocktail/cassis_soda.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/cassis_soda.png",
+        "ingredients": [
             {
-                "ingradientId": 11,
+                "ingredientId": "11",
                 "amount": "30ml"
             },
             {
-                "ingradientId": 101,
+                "ingredientId": "101",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 125,
+                "ingredientId": "125",
                 "amount": "150ml"
             }
         ],
-        "alchol": 3,
+        "alchol": "3",
         "method": "ビルド"
     },
     {
-        "id": 8,
+        "id": "8",
         "name": "カシスグレープフルーツ",
-        "image": "/images/cocktail/cassis_grapefruit.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/cassis_grapefruit.png",
+        "ingredients": [
             {
-                "ingradientId": 11,
+                "ingredientId": "11",
                 "amount": "30ml"
             },
             {
-                "ingradientId": 101,
+                "ingredientId": "101",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 123,
+                "ingredientId": "123",
                 "amount": "150ml"
             }
         ],
-        "alchol": 3,
+        "alchol": "3",
         "method": "ビルド"
     },
     {
-        "id": 9,
+        "id": "9",
         "name": "カシスバック",
-        "image": "/images/cocktail/cassis_back.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/cassis_back.png",
+        "ingredients": [
             {
-                "ingradientId": 11,
+                "ingredientId": "11",
                 "amount": "30ml"
             },
             {
-                "ingradientId": 101,
+                "ingredientId": "101",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 121,
+                "ingredientId": "121",
                 "amount": "150ml"
             }
         ],
-        "alchol": 3,
+        "alchol": "3",
         "method": "ビルド"
     },
     {
-        "id": 10,
+        "id": "10",
         "name": "カシスモーニ",
-        "image": "/images/cocktail/cassis_moni.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/cassis_moni.png",
+        "ingredients": [
             {
-                "ingradientId": 11,
+                "ingredientId": "11",
                 "amount": "30ml"
             },
             {
-                "ingradientId": 101,
+                "ingredientId": "101",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 123,
+                "ingredientId": "123",
                 "amount": "75ml"
             },
             {
-                "ingradientId": 126,
+                "ingredientId": "126",
                 "amount": "75ml"
             }
         ],
-        "alchol": 3,
+        "alchol": "3",
         "method": "ビルド"
     },
     {
-        "id": 11,
+        "id": "11",
         "name": "ペシェモーニ",
-        "image": "/images/cocktail/peche_moni.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/peche_moni.png",
+        "ingredients": [
             {
-                "ingradientId": 12,
+                "ingredientId": "12",
                 "amount": "30ml"
             },
             {
-                "ingradientId": 15,
+                "ingredientId": "15",
                 "amount": "10ml"
             },            {
-                "ingradientId": 101,
+                "ingredientId": "101",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 123,
+                "ingredientId": "123",
                 "amount": "70ml"
             },
             {
-                "ingradientId": 126,
+                "ingredientId": "126",
                 "amount": "70ml"
             }
         ],
-        "alchol": 4,
+        "alchol": "4",
         "method": "ビルド"
     },
     {
-        "id": 12,
+        "id": "12",
         "name": "ペシェジンジャー",
-        "image": "/images/cocktail/peche_ginger.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/moscow_mule.png",
+        "ingredients": [
             {
-                "ingradientId": 12,
+                "ingredientId": "12",
                 "amount": "30ml"
             },
             {
-                "ingradientId": 101,
+                "ingredientId": "101",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 121,
+                "ingredientId": "121",
                 "amount": "150ml"
             }
         ],
-        "alchol": 3,
+        "alchol": "3",
         "method": "ビルド"
     },
     {
-        "id": 13,
+        "id": "13",
         "name": "ペシェトニック",
-        "image": "/images/cocktail/peche_tonic.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/peche_moni.png",
+        "ingredients": [
             {
-                "ingradientId": 12,
+                "ingredientId": "12",
                 "amount": "30ml"
             },
             {
-                "ingradientId": 15,
+                "ingredientId": "15",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 101,
+                "ingredientId": "101",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 126,
+                "ingredientId": "126",
                 "amount": "140ml"
             }
         ],
-        "alchol": 4,
+        "alchol": "4",
         "method": "ビルド"
     },
     {
-        "id": 14,
+        "id": "14",
         "name": "ローズレモンスカッシュ",
-        "image": "/images/cocktail/rose_lemonade.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/rose_lemonade.png",
+        "ingredients": [
             {
-                "ingradientId": 111,
+                "ingredientId": "111",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 101,
+                "ingredientId": "101",
                 "amount": "30ml"
             },
             {
-                "ingradientId": 125,
+                "ingredientId": "125",
                 "amount": "150ml"
             }
         ],
-        "alchol": 0,
+        "alchol": "0",
         "method": "ビルド"
     },
     {
-        "id": 15,
+        "id": "15",
         "name": "シャーリーテンプル",
-        "image": "/images/cocktail/shirley_temple.png",
-        "ingradients": [
+        "image": "/assets/images/cocktail/shirley_temple.png",
+        "ingredients": [
             {
-                "ingradientId": 114,
+                "ingredientId": "114",
                 "amount": "10ml"
             },
             {
-                "ingradientId": 121,
+                "ingredientId": "121",
                 "amount": "150ml"
             }
         ],
-        "alchol": 0,
+        "alchol": "0",
         "method": "ビルド"
     }
 ]

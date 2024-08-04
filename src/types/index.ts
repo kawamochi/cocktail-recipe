@@ -15,5 +15,5 @@ export interface Ingredient {
     image: string;
     ingredients: RecipeIngredient[];
     method: string;
-    instructions: string;
+    alchol: string;
   }
