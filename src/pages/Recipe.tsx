@@ -13,15 +13,15 @@ import {
   Box
 } from '@mui/material';
 import { Recipe, Ingredient } from '../types';
+import Recipes from '../datas/recipes.json'
+import Ingredients from '../datas/ingredients.json'
 
-function RecipePage() {
+export const RecipePage = () => {
   const { id } = useParams<{ id: string }>();
-  const [recipe, setRecipe] = useState<Recipe | null>(null);
-  const [ingredients, setIngredients] = useState<Ingredient[]>([]);
+  const recipes: Recipe[] = JSON.parse(JSON.stringify(Recipes))
+  const ingredients: Ingredient[] = JSON.parse(JSON.stringify(Ingredients))
+  const recipe = recipes.find(r => r.id === id)
 
-  useEffect(() => {
-    // IDに基づいてレシピとその材料を取得
-  }, [id]);
 
   if (!recipe) return <Typography>Loading...</Typography>;
 
@@ -55,22 +55,15 @@ function RecipePage() {
           </List>
 
           <Divider sx={{ my: 2 }} />
-
+          <Typography>アルコール度数：{recipe.alchol}%</Typography>
           <Typography variant="h6" gutterBottom>作り方:</Typography>
           <Box>
             <Typography variant="body1" gutterBottom>
               {recipe.method}
             </Typography>
           </Box>
-
-          <Typography variant="h6" gutterBottom>手順:</Typography>
-          <Typography variant="body1">
-            {recipe.instructions}
-          </Typography>
         </CardContent>
       </Card>
     </Container>
   );
 }
-
-export default RecipePage;

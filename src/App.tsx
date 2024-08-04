@@ -1,16 +1,16 @@
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Home from './pages/Home';
-import Recipe from './pages/Recipe';
+import { Routes, Route, Link } from "react-router-dom";
+import { Home } from "./pages/Home";
+import { RecipePage } from "./pages/Recipe";
 
-function App() {
+
+export default function App() {
   return (
-    <Router>
+    <div className="App">
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/recipe/:id" element={<Recipe />} />
+        <Route path="/recipes" element={<Home />} />
+        <Route path="/recipes/:id" element={<RecipePage />} />
+        <Route path="*" element={<h1> みつからないよ </h1>} />
       </Routes>
-    </Router>
+    </div>
   );
 }
-
-export default App;
