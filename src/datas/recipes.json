@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "モスコミュール",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/moscow_mule.png",
         "ingradients": [
             {
                 "ingradientId": 1,
@@ -23,7 +23,7 @@
     {
         "id": 2,
         "name": "ブルドッグ",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/bulldog.png",
         "ingradients": [
             {
                 "ingradientId": 1,
@@ -44,7 +44,7 @@
     {
         "id": 3,
         "name": "ガルフストリーム",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/gulf_stream.png",
         "ingradients": [
             {
                 "ingradientId": 1,
@@ -73,7 +73,7 @@
     {
         "id": 5,
         "name": "ハイボール",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/highball.png",
         "ingradients": [
             {
                 "ingradientId": 5,
@@ -94,7 +94,7 @@
     {
         "id": 6,
         "name": "lambanogコーク",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/cuba_libre.png",
         "ingradients": [
             {
                 "ingradientId": 6,
@@ -115,7 +115,7 @@
     {
         "id": 7,
         "name": "カシスソーダ",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/cassis_soda.png",
         "ingradients": [
             {
                 "ingradientId": 11,
@@ -136,7 +136,7 @@
     {
         "id": 8,
         "name": "カシスグレープフルーツ",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/cassis_grapefruit.png",
         "ingradients": [
             {
                 "ingradientId": 11,
@@ -157,7 +157,7 @@
     {
         "id": 9,
         "name": "カシスバック",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/cassis_back.png",
         "ingradients": [
             {
                 "ingradientId": 11,
@@ -178,7 +178,7 @@
     {
         "id": 10,
         "name": "カシスモーニ",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/cassis_moni.png",
         "ingradients": [
             {
                 "ingradientId": 11,
@@ -203,7 +203,7 @@
     {
         "id": 11,
         "name": "ペシェモーニ",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/peche_moni.png",
         "ingradients": [
             {
                 "ingradientId": 12,
@@ -231,7 +231,7 @@
     {
         "id": 12,
         "name": "ペシェジンジャー",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/peche_ginger.png",
         "ingradients": [
             {
                 "ingradientId": 12,
@@ -252,7 +252,7 @@
     {
         "id": 13,
         "name": "ペシェトニック",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/peche_tonic.png",
         "ingradients": [
             {
                 "ingradientId": 12,
@@ -277,7 +277,7 @@
     {
         "id": 14,
         "name": "ローズレモンスカッシュ",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/rose_lemonade.png",
         "ingradients": [
             {
                 "ingradientId": 111,
@@ -298,7 +298,7 @@
     {
         "id": 15,
         "name": "シャーリーテンプル",
-        "image": "/images/cocktail/moscomule.jpg",
+        "image": "/images/cocktail/shirley_temple.png",
         "ingradients": [
             {
                 "ingradientId": 114,
