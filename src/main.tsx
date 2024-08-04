@@ -1,12 +1,9 @@
-import * as React from "react";
 import { createRoot } from "react-dom/client";
 import {Home} from "./pages/Home"
 import { RecipePage } from "./pages/Recipe";
 import {
   createBrowserRouter,
   RouterProvider,
-  Route,
-  Link,
 } from "react-router-dom";
 
 const router = createBrowserRouter([
